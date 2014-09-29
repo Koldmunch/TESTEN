@@ -19,7 +19,8 @@ public class Test1 {
 	String full_name;
 	full_name = first_name + " " + family_name;
 
-	System.out.println("You are " + full_name);
+	System.out.println("You are ugly" + full_name);
+	
 	
 	
 }
